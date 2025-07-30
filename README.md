@@ -27,7 +27,8 @@ pip install pytesseract opencv-python
 
 ```
 Also, download and install Tesseract OCR on your system.
-2. Set Up
+
+### 2. Set Up
 
 Make sure you update the script with:
 
